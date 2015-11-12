@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: f82c74f4364b35342a80a28bcebc18a7
+timeCreated: 1444106727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cross_heart_high_Mirror
+    100002: //RootNode
+    100004: curve1
+    100006: curve2
+    100008: curve3
+    100010: curve4
+    100012: curve5
+    100014: joint1
+    100016: joint10
+    100018: joint11
+    100020: joint12
+    100022: joint13
+    100024: joint14
+    100026: joint15
+    100028: joint16
+    100030: joint17
+    100032: joint18
+    100034: joint19
+    100036: joint19 1
+    100038: joint19 2
+    100040: joint2
+    100042: joint20
+    100044: joint20 1
+    100046: joint20 2
+    100048: joint21
+    100050: joint22
+    100052: joint24
+    100054: joint25
+    100056: joint26
+    100058: joint28
+    100060: joint29
+    100062: joint3
+    100064: joint30
+    100066: joint4
+    100068: joint5
+    100070: joint6
+    100072: joint7
+    100074: joint8
+    100076: joint9
+    100078: pCube1
+    100080: pCube17
+    100082: pCube18
+    100084: pCube19
+    100086: pCube20
+    100088: pCube21
+    100090: pCube22
+    100092: pCube23
+    100094: pCube24
+    100096: pCube25
+    100098: pCube5
+    100100: pCube6
+    100102: pCube7
+    100104: pCube8
+    100106: pCube9
+    100108: polySurface010
+    100110: Cross_heart_high_Mirror001
+    100112: Cross_heart_high_Mirror002
+    100114: Cross_heart_high_Mirror003
+    100116: Cross_heart_high_Mirror004
+    100118: polySurface011
+    100120: polySurface012
+    100122: polySurface013
+    400000: Cross_heart_high_Mirror
+    400002: //RootNode
+    400004: curve1
+    400006: curve2
+    400008: curve3
+    400010: curve4
+    400012: curve5
+    400014: joint1
+    400016: joint10
+    400018: joint11
+    400020: joint12
+    400022: joint13
+    400024: joint14
+    400026: joint15
+    400028: joint16
+    400030: joint17
+    400032: joint18
+    400034: joint19
+    400036: joint19 1
+    400038: joint19 2
+    400040: joint2
+    400042: joint20
+    400044: joint20 1
+    400046: joint20 2
+    400048: joint21
+    400050: joint22
+    400052: joint24
+    400054: joint25
+    400056: joint26
+    400058: joint28
+    400060: joint29
+    400062: joint3
+    400064: joint30
+    400066: joint4
+    400068: joint5
+    400070: joint6
+    400072: joint7
+    400074: joint8
+    400076: joint9
+    400078: pCube1
+    400080: pCube17
+    400082: pCube18
+    400084: pCube19
+    400086: pCube20
+    400088: pCube21
+    400090: pCube22
+    400092: pCube23
+    400094: pCube24
+    400096: pCube25
+    400098: pCube5
+    400100: pCube6
+    400102: pCube7
+    400104: pCube8
+    400106: pCube9
+    400108: polySurface010
+    400110: Cross_heart_high_Mirror001
+    400112: Cross_heart_high_Mirror002
+    400114: Cross_heart_high_Mirror003
+    400116: Cross_heart_high_Mirror004
+    400118: polySurface011
+    400120: polySurface012
+    400122: polySurface013
+    2300000: Cross_heart_high_Mirror
+    2300002: pCube1
+    2300004: pCube17
+    2300006: pCube18
+    2300008: pCube19
+    2300010: pCube20
+    2300012: pCube21
+    2300014: pCube22
+    2300016: pCube23
+    2300018: pCube24
+    2300020: pCube25
+    2300022: pCube5
+    2300024: pCube6
+    2300026: pCube7
+    2300028: pCube8
+    2300030: pCube9
+    3300000: Cross_heart_high_Mirror
+    3300002: pCube1
+    3300004: pCube17
+    3300006: pCube18
+    3300008: pCube19
+    3300010: pCube20
+    3300012: pCube21
+    3300014: pCube22
+    3300016: pCube23
+    3300018: pCube24
+    3300020: pCube25
+    3300022: pCube5
+    3300024: pCube6
+    3300026: pCube7
+    3300028: pCube8
+    3300030: pCube9
+    4300000: pCube1
+    4300002: pCube5
+    4300004: pCube6
+    4300006: pCube7
+    4300008: pCube8
+    4300010: pCube9
+    4300012: pCube17
+    4300014: pCube18
+    4300016: pCube19
+    4300018: pCube20
+    4300020: pCube21
+    4300022: pCube22
+    4300024: pCube23
+    4300026: pCube24
+    4300028: pCube25
+    4300030: polySurface010
+    4300032: Cross_heart_high_Mirror
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface010
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
